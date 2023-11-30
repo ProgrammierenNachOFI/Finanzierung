@@ -6,5 +6,7 @@ mittels der Substituierung von Eigenkapital durch Fremdkapital die
 Eigenkapitalrentabilität (Return on Equity, RoE) erhöht werden. Dieses
 Phänomen wird als Leverage Effekt bezeichnet.
 
-Mit den hier zur Verfügung gestellten Notebooks, soll der Leverage
+Mit den
+[hier](https://nbviewer.org/github/ProgrammierenNachOFI/Finanzierung/blob/main/docs/leverage_effekt_sus.ipynb)
+zur Verfügung gestellten Notebooks, soll der Leverage
 Effekt rechnerisch erfahrbar gemacht werden.
