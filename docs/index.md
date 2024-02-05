@@ -7,6 +7,7 @@ Eigenkapitalrentabilität (Return on Equity, RoE) erhöht werden. Dieses
 Phänomen wird als Leverage Effekt bezeichnet.
 
 Mit den
-[hier](https://nbviewer.org/github/ProgrammierenNachOFI/Finanzierung/blob/main/docs/leverage_effekt_sus.ipynb)
+[hier](https://colab.research.google.com/github/ProgrammierenNachOFI/Finanzierung/blob/main/docs/leverage_effekt_sus.ipynb)
 zur Verfügung gestellten Notebooks, soll der Leverage
-Effekt rechnerisch erfahrbar gemacht werden.
+Effekt rechnerisch erfahrbar gemacht werden. Die Musterlösung findet
+sich im entsprechenden GitHub Repository.
